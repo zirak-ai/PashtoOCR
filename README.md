@@ -4,4 +4,6 @@ PsOCR is a large-scale synthetic Pashto OCR dataset and evaluation suite designe
 
 ## PsOCR Benchmark Links:
 HuggingFace: https://huggingface.co/datasets/zirak-ai/PashtoOCR
+
+
 Kaggle: https://www.kaggle.com/datasets/drijaz/PashtoOCR
