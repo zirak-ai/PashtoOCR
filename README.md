@@ -10,7 +10,7 @@
           &nbsp&nbsp | &nbsp&nbsp📑 <a href="https://arxiv.org/abs/2505.10055v1"><b>Paper</b></a>
 </p>
 
-Paper: [PsOCR: Benchmarking Large Multimodal Models for Optical Character Recognition in Low-resource Pashto Language](https://arxiv.org/abs/2505.10055v1)
+**[PsOCR: Benchmarking Large Multimodal Models for Optical Character Recognition in Low-resource Pashto Language](https://arxiv.org/abs/2505.10055v1)**
 
 # Introduction
 PsOCR is a large-scale synthetic Pashto OCR dataset and evaluation suite designed to advance OCR research for low-resource Pashto language. It comprises 1 million images with word, line, and document-level annotations covering 1000 unique fonts, colors, sizes, and layouts.
