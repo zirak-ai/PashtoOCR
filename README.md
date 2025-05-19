@@ -14,8 +14,8 @@
 
 # Introduction
 * PsOCR is a large-scale synthetic dataset for Optical Character Recognition in low-resource Pashto language. 
-* This is the first publicly available comprehensive Pashto OCR dataset consisting of one million synthetic images annotated at word, line, and document-level granularity, covering extensive variations including 1000 unique font families, diverse colors, image sizes, and text layouts.
-* PsOCR includes the first publicly available OCR benchmark comprising 10K images, facilitating systematic evaluation and comparison of OCR systems for the low-resource Pashto.
+* This is the first publicly available comprehensive Pashto OCR dataset consisting of **One Million** synthetic images annotated at word, line, and document-level granularity, covering extensive variations including **1000** unique font families, diverse colors, image sizes, and text layouts.
+* PsOCR includes the first publicly available OCR benchmark comprising **10,000** images, facilitating systematic evaluation and comparison of OCR systems for the low-resource Pashto.
 * We conducted a pioneering evaluation and comparison of state-of-the-art LMMs on Pashto OCR, providing crucial insights into their zero-shot capabilities, strengths, and limitations for low-resource languages written in Perso-Arabic scripts.
 
 <p align="center">
