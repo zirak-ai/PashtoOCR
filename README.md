@@ -20,7 +20,15 @@ PsOCR is a large-scale synthetic Pashto OCR dataset and evaluation suite designe
     Performance Comparison of various LMMs on PsOCR Benchmark
 <p>
 
-# Dataset Links:
+# Granularity
+The annotation information is provided at three levels of granularity: page-level, line-level, and token-level
+
+<p align="center">
+    <img src="https://github.com/zirak-ai/PashtoOCR/blob/main/fig2.jpg" width="90%"/>
+<p>
+
+
+# Dataset Links
 **HuggingFace:** https://huggingface.co/datasets/zirak-ai/PashtoOCR
 
 **Kaggle:** https://www.kaggle.com/datasets/drijaz/PashtoOCR
