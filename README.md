@@ -19,7 +19,7 @@
 * We conducted a pioneering evaluation and comparison of state-of-the-art LMMs on Pashto OCR, providing crucial insights into their zero-shot capabilities, strengths, and limitations for low-resource languages written in Perso-Arabic scripts.
 
 <p align="center">
-    <img src="https://github.com/zirak-ai/PashtoOCR/blob/main/fig1.jpg" width="70%"/><br>
+    <img src="https://github.com/zirak-ai/PashtoOCR/blob/main/fig1.jpg" width="60%"/><br>
     Performance Comparison of various LMMs on PsOCR Benchmark
 <p>
 
